@@ -5,7 +5,7 @@ VERSION="5.0.3"
 # Customer customization: change this block for white-label builds.
 APP_NAME="iominerpreferred"
 APP_ID="iominerpreferred"
-DOWNLOAD_HOST="https://github.com/MinerProxyPro/custom/raw/main/Readme/139/linux"
+DOWNLOAD_HOST="https://github.com/MinerProxyPro/custom/raw/main/Readme/139/Linux"
 
 SERVICE_NAME="iominerservice"
 PROCESS_WAIT_INTERVAL="0.1"
