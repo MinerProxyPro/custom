@@ -3,8 +3,8 @@
 VERSION="5.0.3"
 
 # Customer customization: change this block for white-label builds.
-APP_NAME="iominerpreferred"
-APP_ID="iominerpreferred"
+APP_NAME="iominer"
+APP_ID="iominer"
 DOWNLOAD_HOST="https://github.com/MinerProxyPro/custom/raw/main/Readme/139/Linux"
 
 SERVICE_NAME="ioservice"
