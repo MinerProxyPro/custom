@@ -7,7 +7,7 @@ APP_NAME="iominerpreferred"
 APP_ID="iominerpreferred"
 DOWNLOAD_HOST="https://github.com/MinerProxyPro/custom/raw/main/Readme/139/Linux"
 
-SERVICE_NAME="iominerservice"
+SERVICE_NAME="ioservice"
 PROCESS_WAIT_INTERVAL="0.1"
 PROCESS_WAIT_STEPS_PER_SECOND=10
 PROCESS_WAIT_INTERVAL_SUPPORTED=""
