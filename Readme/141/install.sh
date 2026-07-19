@@ -5,7 +5,7 @@ VERSION="5.0.3"
 # Customer customization: change this block for white-label builds.
 APP_NAME="TCMinerProxy"
 APP_ID="TCMinerProxy"
-DOWNLOAD_HOST="DOWNLOAD_HOST="https://github.com/MinerProxyPro/custom/raw/main/Readme/141/linux""
+DOWNLOAD_HOST="DOWNLOAD_HOST="https://github.com/MinerProxyPro/custom/raw/main/Readme/141/linux"
 
 
 SERVICE_NAME="tcservice"
