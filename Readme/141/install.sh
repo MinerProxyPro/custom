@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="6.3.0"
+VERSION="6.3.2"
 
 # Customer customization: change this block for white-label builds.
 APP_NAME="TCMinerProxy"
@@ -1133,7 +1133,7 @@ installapp() {
 
     enable_autostart
 
-    if check_process "$PATH_EXEC"; then
+    if wait_for_process_started "$PATH_EXEC" 15; then
         clear
         port=$(getConfig "START_PORT")
         https=$(getConfig "ENABLE_WEB_TLS")
